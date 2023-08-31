@@ -3,6 +3,7 @@ Welcome to the Bewakoof Website &lt;https://www.bewakoof.com/> Clone repository!
 
 ## Technologies used
 
+<hr>
 
 - HTML5
 - CSS
@@ -14,6 +15,7 @@ Welcome to the Bewakoof Website &lt;https://www.bewakoof.com/> Clone repository!
 
 ## Installing and Running
 
+<hr>
 
 
 To run this application on your local system
